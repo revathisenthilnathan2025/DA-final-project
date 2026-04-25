@@ -13,5 +13,5 @@ This project analyzes customer support data using AI techniques.
 - Power BI
 - Excel
 
-## Author
-Your Name
+## author
+Revathi
